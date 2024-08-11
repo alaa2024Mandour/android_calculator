@@ -17,7 +17,8 @@ class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         enableEdgeToEdge()
-        setContentView(R.layout.main_activity)
+//        setContentView(R.layout.main_activity)
+        setContentView(R.layout.alignment_test)
     }
 }
 
